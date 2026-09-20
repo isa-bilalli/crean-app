@@ -4,7 +4,7 @@ function AddInvoice() {
 
     return(
         <div>
-            <Header/>
+            <Header />
         </div>
     )
 }

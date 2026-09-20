@@ -1,8 +1,11 @@
+import Header from "../components/Header";
+
 function AddPayment() {
 
     return(
-        <>
-        </>
+        <div>
+            <Header />
+        </div>
     )
 }
 

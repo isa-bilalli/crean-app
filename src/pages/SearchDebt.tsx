@@ -1,8 +1,10 @@
+import Header from "../components/Header";
+
 function SearchDebt() {
     return(
-        <>
-        SearchDebt
-        </>
+        <div>
+            <Header />
+        </div>
     )
 }
 

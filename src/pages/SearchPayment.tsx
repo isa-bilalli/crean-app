@@ -1,8 +1,10 @@
+import Header from "../components/Header";
+
 function SearchPayment() {
     return(
-        <>
-        SearchPayment
-        </>
+        <div>
+            <Header />
+        </div>
     )
 }
 

@@ -1,8 +1,10 @@
+import Header from "../components/Header";
+
 function GenerateReport() {
     return(
-        <>
-        GENERATE REPORT
-        </>
+        <div>
+            <Header />
+        </div>
     )
 }
 

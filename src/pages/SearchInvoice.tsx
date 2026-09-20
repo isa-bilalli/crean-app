@@ -1,8 +1,10 @@
+import Header from "../components/Header";
+
 function SearchInvoice() {
     return(
-        <>
-        SearchInvoice
-        </>
+        <div>
+            <Header />
+        </div>
     )
 }
 
