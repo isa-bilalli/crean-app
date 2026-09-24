@@ -2,14 +2,10 @@ package com.isabilalli.crean.client;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.util.List;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 
-import com.isabilalli.crean.client.dto.CreateClientRequest;
-import com.isabilalli.crean.client.dto.ClientResponse;
+import com.isabilalli.crean.client.dto.*;
 
 import jakarta.validation.Valid;
 
